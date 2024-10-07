@@ -1,0 +1,66 @@
+# Écouteurs, montres intelligentes, cellulaires... gare à la sueur!
+
+S’il vous prend l’envie de sortir en plein air durant une grosse vague de chaleur comme la dernière en date qui a traversé le Québec, assurez-vous que vos appareils électroniques ne sont pas trempés de sueur. Cela pourrait les endommager très sérieusement. Heureusement, il y a moyen d’éviter le pire.
+De nos jours, la mobilité informatique prend plusieurs formes. Une montre connectée aide les coureurs à suivre en direct leur performance. Des écouteurs (avec ou sans fil) agrémentent la randonnée d’une trame musicale toute personnelle. Un téléphone dans la poche du short permet de ne pas perdre de vue le sentier sur lequel on s’aventure pour conquérir le sommet d’une montagne.
+
+Ces appareils sont conçus pour résister à une usure normale, y compris à une certaine forme d’humidité ou d’éclaboussures, mais tous ne peuvent pas endurer une exposition prolongée à des liquides, comme de l’eau, ou à la poussière des sentiers plus secs et sauvages, ou même à la chaleur des rayons du soleil. Bien évidemment, la sueur elle-même peut corroder vos appareils et les rendre inopérants.
+
+Voici ce que vous devez savoir pour protéger vos gadgets de ces expériences extrêmes.
+
+
+##Trouver l’indice de protection de votre appareil
+L’indice de protection est mieux connu sous le nom de code IP. Il est composé de deux chiffres et il donne une indication du niveau d’étanchéité des appareils électroniques. La plupart des appareils qu’on porte sur soi (écouteurs, montres et bracelets) et même plusieurs téléphones en possèdent un. 
+
+Il s’agit d’une norme internationale qui a été créée en 1989 par la Commission électrotechnique internationale (CEI). On peut donc s’y fier, et même comparer l’indice de protection d’appareils électroniques de différentes marques.
+
+L’indice IP n’est pas toujours clairement indiqué sur l’emballage, mais, la plupart du temps, on le trouve dans la fiche des caractéristiques des appareils, que ce soit sur le site du fabricant ou dans la documentation qui l’accompagne.
+
+Les deux chiffres qui composent le code IP donnent une idée du taux d’étanchéité face à un solide (pensez à la poussière) et à un liquide (l’eau, la sueur, cette tasse de café qui semble tout à coup en équilibre très précaire, si près du coin de la table…).
+
+L’indice peut adopter une valeur de 0 à 6 pour la résistance à la poussière et de 0 à 9 dans le cas de la résistance aux liquides. On utilise aussi la valeur X pour signifier qu’il n’y a aucune protection particulière contre un solide ou un liquide. Par exemple, un appareil avec l’indice IP2X résistera aux corps solides d’une taille supérieure à 12,5 mm, mais n’offrira aucune protection contre l’intrusion d’eau.
+
+Pour une protection minimale contre la sueur produite durant une activité physique légère, les fabricants d’appareils informatiques mobiles recommandent un indice de protection minimale IPX4. Cela signifie que les liquides projetés sur la surface de l’appareil n’auront pas d’effet nuisible.
+
+Si vous courez de façon assidue avec votre montre au poignet, ou avec un téléphone dans la poche de votre cuissard, une protection plus élevée pouvant aller jusqu’à IPX8 sera recommandée. Si vous courez sur des sentiers de terre battue, un indice IP68 sera probablement le niveau d’étanchéité le plus adéquat.
+
+Un indice IP68 promet une résistance totale à la poussière et une protection contre une immersion temporaire dans un liquide à une profondeur maximale d’un mètre.
+
+
+## Des gadgets à plusieurs centaines de dollars
+L’été, à la plage ou aux glissades d’eau, c’est le moment de « décrocher » et de laisser son téléphone dans un casier cadenassé. Si vous ne pouvez vous en défaire, peut-être devriez-vous l’équiper d’un étui de protection adéquat. Car, même si son indice de protection garantit qu’il résistera aux intempéries de vos vacances estivales, ce n’est jamais une mauvaise idée de protéger un gadget valant plusieurs centaines de dollars à l’aide d’un étui qui, lui, n’en coûtera pas plus de 15 ou 20…
+
+Par exemple, la marque ProCase vend des pochettes étanches pour téléphone intelligent dont les dimensions varient selon le modèle pour lequel elles sont conçues. On peut tenir l’étui en bandoulière et quand même interagir avec l’appareil puisque sa portion avant est composée d’un plastique TPU, qui laisse passer les commandes tactiles jusque sur l’écran du téléphone.
+
+S’il vous faut en plus une résistance contre les chocs et les solides de toutes les tailles, des étuis plus robustes, comme ceux de la gamme OtterBox, sont peut-être plus appropriés.
+
+Ces protections offrent une meilleure étanchéité, ainsi qu’une résistance aux chocs et à d’autres formes de traitement abusif.
+
+
+## Une protection de qualité militaire
+D’ailleurs, si vous cherchez un appareil capable de résister à tout, ou presque, vous pouvez plutôt essayer d’en trouver un qui sera conforme aux normes militaires. Celles-ci commencent par les lettres « MIL », et ressemblent généralement à ceci : MIL-STD-810.
+
+La norme MIL-STD-810 certifie qu’on peut échapper son appareil au moins 26 fois d’une hauteur de 1,25 mètre, sous différents angles, et que celui-ci ne sera pas endommagé.
+
+Un étui pour téléphone de qualité (grade) militaire est utile si, par exemple, vous souhaitez fixer votre appareil au guidon de votre vélo, pour vous orienter durant vos excursions.
+
+La marque Kee Guard propose des étuis pour téléphone intelligent qui résistent à presque tout… et qui ne feront pas pour autant voler en éclats votre budget de vacances.
+
+Si vous préférez opter carrément pour un téléphone de grade militaire, Nokia offre peut-être le meilleur modèle actuellement sur le marché : le XR20 est un téléphone Android à écran de 6,7 pouces conforme aux normes IP68 et MIL-STD-810 qui devrait durer quelques années.
+
+
+## Vos écouteurs sont sensibles!
+Peu importe leur indice de résistance, les écouteurs font sans doute partie des appareils électroniques les plus sensibles à l’eau et l’humidité. Notez que ce n’est pas parce qu’ils n’ont pas d’indice officiel qu’ils ne sont pas étanches, mais à l’inverse, aucun appareil électronique n’est entièrement à l’épreuve de l’eau, de la sueur ou de la poussière.
+
+Dans le cas des écouteurs, l’eau ou la saleté peuvent s’introduire dans le port de recharge ou même obstruer le petit conduit sonore devant le haut-parleur. Le boîtier des écouteurs boutons peut lui aussi être affecté par la présence d’eau ou de poussière.
+
+Cela risque de nuire à la qualité de la musique ou à la recharge des écouteurs. Il est donc important de bien refermer les ports lorsque c’est possible, ou de laisser sécher et de nettoyer ses écouteurs, au besoin, surtout avant d’y brancher un câble. 
+
+
+##Évitez la poussière et l'humidité
+Peu importe l’appareil que vous avez sous la main, et peu importe la norme d’étanchéité et de résistance qu’il revendique, il est toujours plus sage de réduire le contact avec les liquides et la poussière.
+
+Cela vaut aussi au moment de la recharge : si l’appareil ou son étui est humide, il est préférable de ne pas y brancher son chargeur et d’attendre qu’il soit sec. Cela évitera les mauvaises surprises…
+
+Et comme pour tout le reste, ce n’est pas une mauvaise idée non plus de nettoyer vos appareils de temps en temps. La poussière et la sueur accumulées sous le boîtier de votre montre n’affecteront peut-être pas sa performance dans l’immédiat, mais son style, ça, oui. 
+
+Cela évitera aussi d’endommager l’appareil à long terme…
